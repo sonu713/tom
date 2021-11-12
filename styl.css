@@ -1,0 +1,107 @@
+body{
+    background-color: aquamarine;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+
+}
+hr{
+    border-color:royalblue;
+    width: 20%;
+    border-width: 5px;
+    border-style: dotted none none ;
+   
+    
+}
+img{
+  border: maroon;
+  padding: 10px;
+  margin: auto;
+  
+
+}
+h2{
+    color : rgba(18, 128, 218, 0.753);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 200%;
+    font-weight: normal;
+}
+   
+p{
+    color:lightslategray;
+    font-family: 'Pacifico', cursive;
+ // font-family: 'Hurricane', cursive;
+ font-weight: normal;
+ line-height:3;
+ 
+}
+
+.mid{
+  background-color:lightgrey;
+    margin: 10px;
+    padding: 10px;
+  
+}
+.mid2{
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+   float: right;
+
+}
+.bottom{
+    background-color: lightskyblue;
+    margin: 10px;
+    padding: 20px;
+    align-items: center;
+   
+}
+
+h5{
+ color:lightslategrey ;
+text-align: center;
+}
+h3{
+    color: dimgrey;
+    text-align: center;
+    }
+    
+    .btn {
+        background: #3934d9;
+        background-image: -webkit-linear-gradient(top, #3934d9, #b82b97);
+        background-image: -moz-linear-gradient(top, #3934d9, #b82b97);
+        background-image: -ms-linear-gradient(top, #3934d9, #b82b97);
+        background-image: -o-linear-gradient(top, #3934d9, #b82b97);
+        background-image: linear-gradient(to bottom, #3934d9, #b82b97);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Georgia;
+        color: #1fc4ed;
+        font-size: 22px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        
+        
+      }
+      
+      .btn:hover {
+        background: #fc3c3c;
+        background-image: -webkit-linear-gradient(top, #fc3c3c, #3934d9);
+        background-image: -moz-linear-gradient(top, #fc3c3c, #3934d9);
+        background-image: -ms-linear-gradient(top, #fc3c3c, #3934d9);
+        background-image: -o-linear-gradient(top, #fc3c3c, #3934d9);
+        background-image: linear-gradient(to bottom, #fc3c3c, #3934d9);
+        text-decoration: none;
+      }
+      a{
+          color: lightslategrey;
+          margin: 30px;
+          text-decoration: lime;
+
+      }
+      a:hover{
+          color: linen;
+      }
